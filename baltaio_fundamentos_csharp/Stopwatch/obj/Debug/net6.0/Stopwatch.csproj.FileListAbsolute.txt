@@ -1,0 +1,15 @@
+/workspaces/baltaio_fund_csharp/Stopwatch/bin/Debug/net6.0/Stopwatch
+/workspaces/baltaio_fund_csharp/Stopwatch/bin/Debug/net6.0/Stopwatch.deps.json
+/workspaces/baltaio_fund_csharp/Stopwatch/bin/Debug/net6.0/Stopwatch.runtimeconfig.json
+/workspaces/baltaio_fund_csharp/Stopwatch/bin/Debug/net6.0/Stopwatch.dll
+/workspaces/baltaio_fund_csharp/Stopwatch/bin/Debug/net6.0/Stopwatch.pdb
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.AssemblyReference.cache
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfoInputs.cache
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.AssemblyInfo.cs
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.csproj.CoreCompileInputs.cache
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.dll
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/refint/Stopwatch.dll
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.pdb
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/Stopwatch.genruntimeconfig.cache
+/workspaces/baltaio_fund_csharp/Stopwatch/obj/Debug/net6.0/ref/Stopwatch.dll
